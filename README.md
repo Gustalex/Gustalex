@@ -1,6 +1,6 @@
 🌎Hello, world! I'm Gustavo.
 
-🧑‍🎓 Currently studying computer engineering
+📖 Currently studying computer engineering
 
 
 <div>
