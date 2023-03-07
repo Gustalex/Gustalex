@@ -9,4 +9,4 @@
 
 <h2>👇Find me here👇 </h2>
 <a href="mailto:alexandregustavo00@gmail.com"><img height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.instagram.com/gstv_alex/" target = _blank><img height="40" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a target = "_blank" href="https://www.instagram.com/gstv_alex/"><img height="40" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
