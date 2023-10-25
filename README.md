@@ -7,7 +7,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustalex&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustalex&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
-🪛Dev Technologies🪛
+<h2>🪛Dev Technologies🪛</h2>
  <a><img height= "35" src= "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
  <a><img height= "35" src= "https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
  <a><img height= "35" src= "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=whiteC"></a>
