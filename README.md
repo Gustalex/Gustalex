@@ -1,6 +1,6 @@
 <h1>🌎Hello, world! My name is Gustavo.</h1>
 
-💻Currently studying computer engineering
+<h3>💻Currently studying computer engineering</h3>
 
 <h2>📊My Stats📊</h2>
 
