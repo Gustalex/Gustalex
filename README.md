@@ -16,6 +16,8 @@
   <a><img height="35" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
   <a><img height="35" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
   <a><img height="35" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"></a>
+  <a><img height="35" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"></a>
+  <a><img height="35" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"></a>
 </div>
 
 <h2>👇Find me here👇 </h2>
